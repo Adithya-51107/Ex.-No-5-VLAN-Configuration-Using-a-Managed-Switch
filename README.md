@@ -15,7 +15,7 @@ Description:<br>
 •	PC0 and PC1 are assigned to VLAN 10.<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
 •	All PCs are connected to different ports on the same switch.<br>
-<img width="787" height="512" alt="image" src="https://github.com/user-attachments/assets/a147e9a0-0930-4944-83a5-419c386c4701" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/70df2588-a31a-4c07-b191-c4ccba6ac2c3" />
 ________________________________________
 # IP Addressing Table
 Device	VLAN	IP Address	Subnet Mask	Port<br>
@@ -61,14 +61,14 @@ Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on switch<br>
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b85cbb9-261e-47ca-8f50-84d21cfedf78" />
+<img width="1616" height="860" alt="image" src="https://github.com/user-attachments/assets/39ca5673-2a7b-4314-b9c2-5d9976e573bf" />
 
 •	Successful ping between PCs in the same VLAN<br>
-<img width="1600" height="912" alt="image" src="https://github.com/user-attachments/assets/33f67f76-3875-4427-9718-58477980c39a" />
-<img width="1600" height="904" alt="image" src="https://github.com/user-attachments/assets/a9ae25b2-ab17-4ac0-b864-0d01bb25f0d4" />
+<img width="1886" height="988" alt="image" src="https://github.com/user-attachments/assets/c95e51ee-5ca8-4d69-99a7-f7f107483bb8" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e2487f22-36de-4d65-a1c0-8788d0b1f44b" />
 
 •	Failed ping between PCs in different VLANs<br>
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8a2a8d59-2f66-4751-b81a-61ceebc7a277" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/d733e6cd-cd39-43a0-b881-f822541a9902" />
 
 ________________________________________
 # Result
